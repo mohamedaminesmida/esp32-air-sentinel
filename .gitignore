@@ -1,0 +1,23 @@
+# Python & MicroPython
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Hardware & Flashing Tools
+.esphome/
+.pio/
+build/
+dist/
+
+# OS specific
+.DS_Store
+Thumbs.db
